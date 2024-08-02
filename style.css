@@ -1,0 +1,36 @@
+body {
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+    table-layout: fixed;
+    
+
+}
+
+
+.bg {
+    background-image: url(https://i.pinimg.com/564x/a8/60/49/a86049fff4ba93bbf1bc6883f6f29019.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+    background-color: rgba(255, 255, 255, 0.8); 
+    
+}
+a{
+    margin-left: 467px;
+}
